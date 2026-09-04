@@ -295,7 +295,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @default
 		 * @type {?string}
 		 */
-		mainPack: "https://media.githubusercontent.com/media/loopies2600/hxs-site/refs/head/main/web/index.pck",
+		mainPack: "https://media.githubusercontent.com/media/loopies2600/hxs-site/refs/heads/main/web/index.pck",
 		/**
 		 * Specify a language code to select the proper localization for the game.
 		 *
